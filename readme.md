@@ -37,7 +37,7 @@
 
 ## How to Reproduce: 
    - Clone this repo
-   - Acquire data from MySql (Should make a zillow.csv after)
+   - Acquire data from MySql
    - Run Notebook
 ## Key findings:
    - Bedrooms, Bathrooms, and Finished_area were the best features to use. Garages did not make the cut due to too much missing data and too many assumptions.
